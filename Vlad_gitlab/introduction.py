@@ -54,7 +54,7 @@ print(records['[100, 101]'][1].head())
 
 # %%
 # Print all columns in the table
-records['[100, 101]'][1].columns
+print(records['[100, 101]'][1].columns)
 
 # %%
 """
