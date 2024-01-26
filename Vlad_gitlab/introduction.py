@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 """
 
 # %%
-data_path = "D:/owncloud_gwdg/SocNeuro/GDF/data.pickle"  # if the file can't be found try absolute path
+data_path = "/Users/aruna.nyssanbay/Documents/LR1/data.pickle"  # if the file can't be found try absolute path
 
 # The data is stored in .pickle format, so we use pickle module to load it. 
 # It takes several seconds to load the file. 
